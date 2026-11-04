@@ -327,7 +327,7 @@ The data was obtained from the National Aeronautics and Space Administration (NA
 
 <div align="center">
 
-**🔒 Source code is private (client project). Happy to walk through the approach in an interview.**
+**🔒 Source code is private.
 
 ⭐ If you found this useful, consider starring the repo!
 
