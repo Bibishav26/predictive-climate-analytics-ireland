@@ -16,7 +16,7 @@
 </div>
 
 > [!NOTE]
-> This was built as a **client project**. The source code, trained models and processed data are confidential, so this repository only documents the problem, the method and the results. The underlying climate data is public. See [Dataset](#-dataset).
+> The source code, trained models and processed data are confidential, so this repository only documents the problem, the method and the results. The underlying climate data is public. See [Dataset](#-dataset).
 
 ---
 
