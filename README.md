@@ -16,7 +16,7 @@
 </div>
 
 > [!NOTE]
-> This was built as a **client project**, so the source code, processed data and trained models stay private. This repository only describes the approach and what I learned. The underlying dataset is public (see [Dataset](#-dataset)).
+> The source code, processed data and trained models stay private. The underlying dataset is public (see [Dataset](#-dataset)).
 
 ---
 
@@ -315,6 +315,6 @@ The data was obtained from the National Aeronautics and Space Administration (NA
 
 <div align="center">
 
-**🔒 Source code is private (client project). Happy to walk through the approach in an interview.**
+**🔒 Source code is private
 
 </div>
